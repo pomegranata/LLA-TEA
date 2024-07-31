@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>LLA-TEA</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<title>Uncategorized &#8211; LLA-TEA</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
 	<lastBuildDate>Sun, 28 Jul 2024 04:39:25 +0000</lastBuildDate>
