@@ -82,3 +82,6 @@ Ikuti panduan [instalasi WordPress resmi](https://wordpress.com/learn/) untuk me
 #### 5. Konfigurasi Simply Static:
 
 - Buka pengaturan Simply Static dan konfigurasikan sesuai kebutuhan Anda untuk menghasilkan situs statis.
+
+## Penggunaan
+Setelah instalasi selesai, Anda dapat mengakses website dengan membuka [localhost](http://localhost) di browser Anda. Panel admin WordPress dapat diakses menggunakan [wp-admin](http://localhost/wp-admin.)
