@@ -7,12 +7,11 @@ LLA-TEA sendiri merupakan merk dagang yang merupakan hasil dari program Wirausah
 
 ## Daftar Isi
 
-1. [Gambaran Proyek]()
-2. [Fitur]()
-3. [Teknologi yang Digunakan]()
-4. [Instalasi]()
-5. [Penggunaan]()
-8. [Kontak]()
+1. [Gambaran Proyek](#gambaran-proyek)
+2. [Fitur](#fitur)
+3. [Teknologi yang Digunakan](#teknologi-yang-digunakan)
+4. [Instalasi](#instalasi)
+5. [Penggunaan](#penggunaan)
 
 ## Gambaran Proyek
 
@@ -52,7 +51,7 @@ LLA-TEA adalah platform _e-commerce_ yang dirancang untuk menawarkan pengguna ca
 * **Plugin:** Spectra, Simply Static
 
 
-## Installation
+## Instalasi
 
 Untuk mengatur proyek ini secara lokal, ikuti langkah-langkah berikut:
 
@@ -84,4 +83,4 @@ Ikuti panduan [instalasi WordPress resmi](https://wordpress.com/learn/) untuk me
 - Buka pengaturan Simply Static dan konfigurasikan sesuai kebutuhan Anda untuk menghasilkan situs statis.
 
 ## Penggunaan
-Setelah instalasi selesai, Anda dapat mengakses website dengan membuka [localhost](http://localhost) di browser Anda. Panel admin WordPress dapat diakses menggunakan [wp-admin](http://localhost/wp-admin.)
+Setelah instalasi selesai, Anda dapat mengakses website dengan membuka [localhost](http://localhost) di browser Anda. Panel admin WordPress dapat diakses menggunakan [wp-admin](http://localhost/wp-admin)
